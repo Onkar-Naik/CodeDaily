@@ -1,0 +1,12 @@
+#Git commands
+1)git config --global user.name "Your Name"  = Configures username globally
+2)git config --global user.email "abc123@gmail.com" = Configures email globally
+3)git init = intializes the repository and creates .git file
+4)git clone <Repository link>  = Clones the repository in your working directory
+5)git checkout <branch_name> = Checkout the branch name
+6)git status = Checks the status of working tree
+7)git add . = Adds all the changes to the staging
+  OR
+  git add --all = Adds all the changes to the staging
+8)git commit -m "Message" = Adds the commit message
+9)git push = Pushes the code from local to remote

@@ -7,4 +7,5 @@ vi file.txt = Opens the VI editor to manipulate the file content
 >>>> ESC -> :wq = Quite and save the changes in the file.
 ls : shows the list of files and directoy
 cd .. : Change to dirctory to previous parent directory
-
+rm file.txt = Removes/deletes the file.txt
+clear = Clear the console Screen
