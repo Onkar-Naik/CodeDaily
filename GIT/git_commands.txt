@@ -10,3 +10,4 @@
   git add --all = Adds all the changes to the staging
 8)git commit -m "Message" = Adds the commit message
 9)git push = Pushes the code from local to remote
+10)git add <untracked_file_path> = Adds particular file to the staging
